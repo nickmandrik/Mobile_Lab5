@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RunTracker</string>
+    <string name="start">Started:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="attitude">Attitude:</string>
+    <string name="elapsed">Elapsed time:</string>
+    <string name="btn_start">START</string>
+    <string name="btn_stop">STOP</string>
+    <string name="wait">Wait, please...</string>
+    <string name="city">Wait, please...</string>
+    <string name="sec">sec</string>
+</resources>
